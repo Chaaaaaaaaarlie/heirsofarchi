@@ -29,5 +29,5 @@ Laut Gruppe gibt es drei Lager: die **Streber** (die Guten), die **Fanatiker** (
 ## Beziehung zur Gruppe
 
 - Die Gruppe hat dem Orden berichtet, was passiert ist. Im Notfall darf sie im Hauptquartier Schutz suchen.
-- Unterstützung: 200 G und ein *Schild +1* für [[Moggelwog|Moggle]] ([[Session 20.11.2026]]).
+- Unterstützung: 200 G und ein *Schild +1* für [[Mogglewog|Moggle]] ([[Session 20.11.2026]]).
 - Die [[Hammerwraiths]] scheinen Respekt vor dem Orden zu haben.

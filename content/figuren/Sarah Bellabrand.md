@@ -21,4 +21,4 @@ sources:
     ## Bekanntes
 
 - Mitglied des [[Order of the Gauntlet]].
-- Fängt in [[Session 20.11.2026]] einen Teil der Gruppe beim Einkaufen ab. Die Gruppe berichtet, was passiert ist; im Notfall darf sie im Hauptquartier des Ordens Schutz suchen. Der Orden gibt 200 G und einen *Schild +1* für [[Moggelwog|Moggle]].
+- Fängt in [[Session 20.11.2026]] einen Teil der Gruppe beim Einkaufen ab. Die Gruppe berichtet, was passiert ist; im Notfall darf sie im Hauptquartier des Ordens Schutz suchen. Der Orden gibt 200 G und einen *Schild +1* für [[Mogglewog|Moggle]].

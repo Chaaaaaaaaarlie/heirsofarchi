@@ -27,7 +27,7 @@ Menschliche Paladinin der Gruppe.
 
 - Wird in [[Session 06.11.2026]] im Versteck [[Xanathar|Xanathars]] bewirtet.
 - Spricht in [[Session 20.11.2026]] mit [[Sarah Bellabrand]] vom [[Order of the Gauntlet]].
-- Wartet in [[Session 20.11.2026]] mit [[Moggelwog|Moggle]] vor dem [[Zhentarim-Gildenhaus]].
+- Wartet in [[Session 20.11.2026]] mit [[Mogglewog|Moggle]] vor dem [[Zhentarim-Gildenhaus]].
 
     ## Verknüpfungen
 

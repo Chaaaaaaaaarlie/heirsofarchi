@@ -41,7 +41,7 @@ Am Haus hängen ein Zettel vom [[Steuereintreiber]] und ein Brief an [[Nymara Mo
 
 ### Der Vormittag
 
-Toki und [[Theofilio|Theo]] bleiben im Haus. [[Mira]], [[Nymara Mooncrest|Nymara]], [[Maxael Wolkenwanderer|Maxael]] und [[Moggelwog|Moggle]] gehen einkaufen und werden von [[Sarah Bellabrand]] vom Orden abgefangen. Die Gruppe berichtet, was passiert ist; im Notfall darf sie im Hauptquartier Schutz suchen. Der Orden gibt 200 G, Moggle erhält einen *Schild +1*.
+Toki und [[Theofilio|Theo]] bleiben im Haus. [[Mira]], [[Nymara Mooncrest|Nymara]], [[Maxael Wolkenwanderer|Maxael]] und [[Mogglewog|Moggle]] gehen einkaufen und werden von [[Sarah Bellabrand]] vom Orden abgefangen. Die Gruppe berichtet, was passiert ist; im Notfall darf sie im Hauptquartier Schutz suchen. Der Orden gibt 200 G, Moggle erhält einen *Schild +1*.
 
 Nymara kauft Zauber für 600 G. Die Gruppe eröffnet ein Konto bei der [[Bank von Waterdeep|Bank]] (1 % pro Monat) und legt 300 G an. Die Bank will prüfen, ob auf einem von Archis Konten noch Geld für seine Erben liegt.
 

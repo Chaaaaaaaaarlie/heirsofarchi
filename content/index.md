@@ -7,7 +7,7 @@ updated: 2026-11-22
 
 # Waterdeep – Kampagnen-Wiki
 
-Spielerseitiges Wiki der Gruppe um [[Nymara Mooncrest|Ny]], [[Toki]], [[Maxael Wolkenwanderer|Maxael]], [[Moggelwog|Moggle]], [[Mira]] und [[Theofilio|Theo]] in den Straßen und Unterwelten von [[Waterdeep]].
+Spielerseitiges Wiki der Gruppe um [[Nymara Mooncrest|Ny]], [[Toki]], [[Maxael Wolkenwanderer|Maxael]], [[Mogglewog|Moggle]], [[Mira]] und [[Theofilio|Theo]] in den Straßen und Unterwelten von [[Waterdeep]].
 
 ## Die Gruppe
 
@@ -71,7 +71,7 @@ Spielerseitiges Wiki der Gruppe um [[Nymara Mooncrest|Ny]], [[Toki]], [[Maxael W
 - [[Luther Burden]]
 - [[Maxael Wolkenwanderer]]
 - [[Mira]]
-- [[Moggelwog]]
+- [[Mogglewog]]
 - [[Nihilor]]
 - [[Nymara Mooncrest]]
 - [[Philip Wandergern]]

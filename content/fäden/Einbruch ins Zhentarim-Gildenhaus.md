@@ -15,7 +15,7 @@ sources:
 
 ## Stand am Ende von [[Session 20.11.2026]]
 
-- Vier aus der Gruppe sind im [[Zhentarim-Gildenhaus]] eingemietet, [[Mira]] und [[Moggelwog|Moggle]] warten draußen.
+- Vier aus der Gruppe sind im [[Zhentarim-Gildenhaus]] eingemietet, [[Mira]] und [[Mogglewog|Moggle]] warten draußen.
 - Beute bisher: Laterne der Enthüllung, 25 G, Rennpferd-Urkunde von [[Dusk]], ein Schlüssel („MC"), ein Amulett.
 - [[Theofilio|Theo]] wurde ins andere Gebäude teleportiert; die anderen drei stehen in einem prunkvollen Schlafzimmer.
 

@@ -12,7 +12,7 @@ entity_type: person
 role: "Gedankenschinder im Dienst Xanathars"
 related:
   - "[[Xanathar-Gilde]]"
-  - "[[Moggelwog]]"
+  - "[[Mogglewog]]"
 sources:
   - "[[Session 06.11.2026]]"
 ---
@@ -24,5 +24,5 @@ sources:
     ## Bekanntes
 
 - Ein Gedankenschinder (*Mind Flayer*), der für [[Xanathar]] arbeitet. Begegnung in [[Xanathars Versteck]] ([[Session 06.11.2026]]).
-- Sagt zu [[Moggelwog|Moggle]]: *„Deine Familie hat es verdient zu brennen."* → [[Moggles Familie]]
+- Sagt zu [[Mogglewog|Moggle]]: *„Deine Familie hat es verdient zu brennen."* → [[Moggles Familie]]
 - In den Notizen auch als „Nihilum" geschrieben.

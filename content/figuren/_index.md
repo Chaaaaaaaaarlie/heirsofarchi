@@ -21,7 +21,7 @@ tags:
 - [[Luther Burden]] — Halbling, Offizier der Stadtwache
 - [[Maxael Wolkenwanderer]] — Spielercharakter
 - [[Mira]] — Spielercharakter
-- [[Moggelwog]] — Spielercharakter
+- [[Mogglewog]] — Spielercharakter
 - [[Nihilor]] — Gedankenschinder im Dienst Xanathars
 - [[Nymara Mooncrest]] — Spielercharakter
 - [[Philip Wandergern]] — Gnom, Schlosser

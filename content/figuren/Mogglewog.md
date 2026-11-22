@@ -1,6 +1,6 @@
 ---
 type: entity
-title: "Moggelwog"
+title: "Mogglewog"
 created: 2026-11-22
 updated: 2026-11-22
 tags:
@@ -9,6 +9,7 @@ status: active
 aliases:
   - "Moggle"
   - "Moggel"
+  - "Moggelwog"
 entity_type: person
 role: Spielercharakter
 related:
@@ -20,7 +21,7 @@ sources:
   - "[[Session 20.11.2026]]"
 ---
 
-# Moggelwog
+# Mogglewog
 
 > **Spielercharakter** · Goblin · Kleriker
 

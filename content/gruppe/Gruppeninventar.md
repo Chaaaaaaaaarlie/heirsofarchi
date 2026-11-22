@@ -23,7 +23,7 @@ aliases:
 
 | Gegenstand | Träger |
 |---|---|
-| Schild +1 | [[Moggelwog|Moggle]] |
+| Schild +1 | [[Mogglewog|Moggle]] |
 | Amulett des Schutzes vor Erkenntniszaubern | [[Maxael Wolkenwanderer|Maxael]] |
 | Trank der Unsichtbarkeit | [[Theofilio|Theo]] |
 | Trank der Gasform | [[Nymara Mooncrest|Ny]] |

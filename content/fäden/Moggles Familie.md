@@ -13,5 +13,5 @@ sources:
 
 # Moggles Familie
 
-- [[Nihilor]] sagt zu [[Moggelwog|Moggle]]: *„Deine Familie hat es verdient zu brennen."*
+- [[Nihilor]] sagt zu [[Mogglewog|Moggle]]: *„Deine Familie hat es verdient zu brennen."*
 - Was weiß Xanathars Gedankenschinder über Moggles Familie?

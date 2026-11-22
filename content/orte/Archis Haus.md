@@ -31,7 +31,7 @@ Im Süden des [[North Ward]], nahe der Grenze zum [[Castle Ward]].
 Acht Zimmer.
 
 - Balkonzimmer: [[Nymara Mooncrest|Ny]]
-- Kleinstes Zimmer: [[Moggelwog|Moggle]]
+- Kleinstes Zimmer: [[Mogglewog|Moggle]]
 
 ## Ausstattung
 

@@ -38,7 +38,7 @@ Die Gruppe tritt durch eine Tür mit Xanathars Symbol, einem geschminkten Auge. 
 > *ich bin ansteckend,*
 > *ich bin die beste Medizin.*
 
-Die Lösung lautet **Lachen**. Eindringlinge in das Versteck werden versteinert. [[Mira]], [[Moggelwog|Moggle]] und [[Maxael Wolkenwanderer|Maxael]] wird etwas Leckeres aufgetischt.
+Die Lösung lautet **Lachen**. Eindringlinge in das Versteck werden versteinert. [[Mira]], [[Mogglewog|Moggle]] und [[Maxael Wolkenwanderer|Maxael]] wird etwas Leckeres aufgetischt.
 
 Im Versteck lebt ein Sammelsurium magischer Wesen: Duergar, Drow, Intellektfresser, der Gedankenschinder [[Nihilor]], der Betrachter-Zombie [[Gaston]] mit dem Zeichen des untoten Prinzen [[Orcus]], ein Spectator und Rotkappen.
 

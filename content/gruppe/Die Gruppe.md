@@ -18,7 +18,7 @@ aliases:
 | [[Nymara Mooncrest]] („Ny") | Hochelfe | Magierin | Sylvara (Katze, Fee) |
 | [[Toki]] | Gnom | Druide | TokTok (Specht) |
 | [[Maxael Wolkenwanderer]] | Goliath | Kämpfer | Auron (Eule, Fee) |
-| [[Moggelwog]] („Moggle") | Goblin | Kleriker | – |
+| [[Mogglewog]] („Moggle") | Goblin | Kleriker | – |
 | [[Mira]] | Mensch | Paladin | – |
 | [[Theofilio]] („Theo") | Goliath | Schurke | – |
 

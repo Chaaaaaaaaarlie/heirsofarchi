@@ -26,6 +26,6 @@ Das Versteck von [[Xanathar]] unter [[Waterdeep]].
 - Im ersten Raum brennen schöne, kalte magische Flammen.
 - [[Flutterfott]] stellt der Gruppe ein Rätsel.
 - Eindringlinge werden versteinert.
-- [[Mira]], [[Moggelwog|Moggle]] und [[Maxael Wolkenwanderer|Maxael]] wird etwas Leckeres aufgetischt.
+- [[Mira]], [[Mogglewog|Moggle]] und [[Maxael Wolkenwanderer|Maxael]] wird etwas Leckeres aufgetischt.
 - Bewohner: Duergar, Drow, Intellektfresser, der Gedankenschinder [[Nihilor]], der Betrachter-Zombie [[Gaston]], ein Spectator, Rotkappen.
 - Xanathars Büro, in dem die Gruppe empfangen wird.
