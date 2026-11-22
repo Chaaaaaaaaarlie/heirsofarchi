@@ -8,6 +8,7 @@ tags:
 status: active
 aliases:
   - "Theo"
+  - "Theofilius"
 entity_type: person
 role: Spielercharakter
 related:
@@ -20,21 +21,20 @@ sources:
 
 > **Spielercharakter** · Goliath · Schurke
 
-    ## Beschreibung
+## Beschreibung
 
-Goliath-Schurke der Gruppe, meist **Theo** genannt.
+Goliath-Schurke der Gruppe, meist **Theo** genannt. Sein Name wird auch „Theofilius“ geschrieben.
 
 ## Bekanntes
 
 - Trägt einen *Trank der Unsichtbarkeit* (siehe [[Gruppeninventar]]).
 - Wird beim Einbruch ins [[Zhentarim-Gildenhaus]] in [[Session 20.11.2026]] ins andere Gebäude teleportiert und von der Gruppe getrennt. → [[Einbruch ins Zhentarim-Gildenhaus]]
 
-    ## Hintergrund
+## Hintergrund
 
 - Schauspieler; in Waterdeep gibt es ein Theater, in dem er auftritt.
-- Hat Bezug zu den Greifenreitern.
 
 ## Verknüpfungen
 
-    - Teil der [[Die Gruppe|Gruppe]]
-    - Wohnt in [[Archis Haus]]
+- Teil der [[Die Gruppe|Gruppe]]
+- Wohnt in [[Archis Haus]]

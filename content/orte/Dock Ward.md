@@ -17,6 +17,10 @@ Stadtviertel von [[Waterdeep]].
 
 Hier liegt der [[Karneval]] an den Docks.
 
+## Bekanntes ([[Session 06.11.2026]])
+
+- Das [[Zhentarim-Schmuggellager]]: Kampf gegen die [[Zhentarim]], zwei Gefangene, darunter [[Jim]].
+
 ## Bekanntes ([[Session 20.11.2026]])
 
 - Begegnung mit [[Askasiva]] vom Karneval.

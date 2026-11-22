@@ -21,7 +21,7 @@ sources:
 
 > Boss der Xanathar-Gilde
 
-    ## Bekanntes
+## Bekanntes
 
 - Herr über ein unterirdisches Versteck voller magischer Wesen. → [[Xanathars Versteck]], [[Xanathar-Gilde]]
 - Sein Symbol ist ein **geschminktes Auge**.

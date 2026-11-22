@@ -19,7 +19,7 @@ sources:
 
 > Betrachter-Zombie in Xanathars Versteck
 
-    ## Bekanntes
+## Bekanntes
 
 - Ein Betrachter-Zombie (*Beholder Zombie*) in [[Xanathars Versteck]].
 - Trägt das Zeichen des untoten Prinzen [[Orcus]].

@@ -28,8 +28,9 @@ tags:
 - [[Mogglewog]] — Spielercharakter
 - [[Nihilor]] — Gedankenschinder im Dienst Xanathars
 - [[Nymara Mooncrest]] — Spielercharakter
-- [[Philip Wandergern]] — Gnom, Schlosser
-- [[Safra Belagra]] — Unbekannt
+- [[Philip van der Gern]] — Gnom, Händler und Schlosser – wichtige Person
+- [[Philipp Archibald]] — Tiefling, Kleriker
+- [[Safra Belagra]] — Frau von hohem Rang
 - [[Sarah Bellabrand]] — Mensch, Order of the Gauntlet
 - [[Theofilio]] — Spielercharakter
 - [[Toki]] — Spielercharakter

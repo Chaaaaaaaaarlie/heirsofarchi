@@ -21,7 +21,7 @@ sources:
 
 > **Spielercharakter** · Goliath · Kämpfer
 
-    ## Beschreibung
+## Beschreibung
 
 Goliath-Kämpfer der Gruppe.
 
@@ -35,12 +35,12 @@ Goliath-Kämpfer der Gruppe.
 - Trägt das *Amulett des Schutzes vor Erkenntniszaubern* (siehe [[Gruppeninventar]]).
 - Gehört in [[Session 20.11.2026]] zu den vier, die sich im [[Zhentarim-Gildenhaus]] einmieten.
 
-    ## Klasse
+## Klasse
 
 - Eldritch Knight.
 - Sein Amulett des Schutzes vor Erkenntniszaubern steht in Verbindung mit den [[Harfner]]n.
 
 ## Verknüpfungen
 
-    - Teil der [[Die Gruppe|Gruppe]]
-    - Wohnt in [[Archis Haus]]
+- Teil der [[Die Gruppe|Gruppe]]
+- Wohnt in [[Archis Haus]]

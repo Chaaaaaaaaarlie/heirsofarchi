@@ -18,4 +18,4 @@ Unterirdische Stadt unter [[Waterdeep]].
 ## Bekanntes
 
 - [[Xanathar]] hat hier ein Sicherheitshaus, in dem das Gegenstück zu Archis Stein der Botschaften liegen sollte.
-- Die Gruppe brach in [[Session 06.11.2026]] in diese Richtung auf, war aber bisher nicht in Skullport.
+- Die Gruppe brach in [[Session 06.11.2026]] in diese Richtung auf, kam aber nur bis zum [[Zhentarim-Schmuggellager]] im [[Dock Ward]]. In Skullport war sie bisher nicht.

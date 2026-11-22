@@ -16,7 +16,7 @@ role: "Offene Fürstin von Waterdeep"
 
 > Offene Fürstin von Waterdeep
 
-    - Die Offene Fürstin (*Open Lord*) von [[Waterdeep]].
+- Die Offene Fürstin (*Open Lord*) von [[Waterdeep]].
 - In den Notizen auch als „Larrol Silverhand" geschrieben.
 
 ## Mehr

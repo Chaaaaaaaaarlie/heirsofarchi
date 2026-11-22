@@ -33,7 +33,7 @@ Begegnungen im [[Dock Ward]], Geschäfte in der Stadt, Unterstützung vom [[Orde
 - Stadtführung: das Theater, in dem [[Theofilio|Theo]] auftritt, die [[City of the Dead]] (tagsüber ein Park), [[Castle Waterdeep]] und das eigene Haus nahe dem Marktplatz.
 - Ein Schreiben lädt die Gruppe ein, ein Bankkonto zu eröffnen.
 - Mira lässt das Haus sichern; die Schlösser kosten 150 G.
-- Die Gruppe kauft neue Schlösser bei dem Gnom [[Philip Wandergern]], der mit den [[Zhentarim]] zu tun haben soll. Er hat jetzt Ärger mit [[Toki]].
+- Die Gruppe kauft neue Schlösser bei dem Gnom [[Philip van der Gern]], der mit den [[Zhentarim]] zu tun haben soll. Er hat jetzt Ärger mit [[Toki]].
 - Auf dem Heimweg wird die Gruppe erneut verfolgt: drei Leute suchen nach Toki – ein Ork, ein Halbling und eine ältere, fast kahle Elfe. → [[Wer sucht Toki?]]
 - Ein Gemälde wird für 500 G an einen Drachenblütigen verkauft, mit Gewinnbeteiligung (Option auf weitere 200 G).
 - Fünf Handarmbrüste werden verkauft, eine weitere wird umgebaut; insgesamt bringen die Armbrüste rund 230 G für die Gruppe. → [[Umbau der Handarmbrust]]

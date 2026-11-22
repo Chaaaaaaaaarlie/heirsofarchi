@@ -14,7 +14,7 @@ sources:
 # Wer sucht Toki?
 
 - Auf dem Heimweg wird die Gruppe erneut verfolgt; drei Leute suchen nach [[Toki]].
-- Zusammenhang mit dem Streit mit [[Philip Wandergern]] (Zhentarim-Kontakt)?
+- Zusammenhang mit dem Streit mit [[Philip van der Gern]] (Zhentarim-Kontakt)?
 
 ## Verfolger
 

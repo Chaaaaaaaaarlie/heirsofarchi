@@ -18,7 +18,7 @@ sources:
 
 > Gnom, Entertainer, Angestellter Xanathars
 
-    ## Bekanntes
+## Bekanntes
 
 - Gnomischer Entertainer im Dienst von [[Xanathar]].
 - Stellt der Gruppe in [[Xanathars Versteck]] ein Rätsel (Lösung: *Lachen*) – siehe [[Session 06.11.2026]].

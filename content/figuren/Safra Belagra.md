@@ -9,15 +9,12 @@ status: seed
 aliases:
   - "Safra Belabron"
 entity_type: person
-role: "Unbekannt"
+role: "Frau von hohem Rang"
 ---
 
 # Safra Belagra
 
-> Unbekannt
+> Frau von hohem Rang
 
-- Bisher nur namentlich bekannt.
-
-## Mehr
-
-- Eine Frau, Kontakt der Gruppe (auch „Belabron“ notiert).
+- Eine Frau von hohem Rang in [[Waterdeep]] (auch „Belabron“ notiert).
+- Gehört zu den Personen, die die Gruppe zu [[Kampagnenbeginn|Beginn]] kennenlernt.

@@ -21,7 +21,7 @@ sources:
 
 > Gedankenschinder im Dienst Xanathars
 
-    ## Bekanntes
+## Bekanntes
 
 - Ein Gedankenschinder (*Mind Flayer*), der für [[Xanathar]] arbeitet. Begegnung in [[Xanathars Versteck]] ([[Session 06.11.2026]]).
 - Sagt zu [[Mogglewog|Moggle]]: *„Deine Familie hat es verdient zu brennen."* → [[Moggles Familie]]

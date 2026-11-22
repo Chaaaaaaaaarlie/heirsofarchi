@@ -7,6 +7,10 @@ updated: 2026-11-22
 
 # Vorgangs-Protokoll
 
+## [2026-11-22] korrektur | Rückfragen zu Nymaras Notizen
+
+- [[Zhentarim-Schmuggellager]] liegt im [[Dock Ward]]. Neu: [[Philipp Archibald]]. [[Philip Wandergern]] heißt [[Philip van der Gern]] (Wappen: Drache nach unten). Volle Namen bei [[Toki]] und [[Theofilio]]; Greifen-Transport zu [[Castle Waterdeep]]; [[Safra Belagra]] von hohem Rang.
+
 ## [2026-11-22] korrektur | Dock Ward statt Skullport
 
 - Die Ereignisse zu Beginn von [[Session 20.11.2026]] (Askasiva, Hammerwraiths, gerettetes Kind) spielten im [[Dock Ward]], nicht in [[Skullport]]. Die Gruppe war bisher nicht in Skullport.

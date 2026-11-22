@@ -23,7 +23,7 @@ Die Gruppe sind die **Erben von [[Archi]]**. Einen Monat nach seinem (vermeintli
 
 ### Ein Erbe in Waterdeep
 
-Einen Monat nach Archis Tod wird die Gruppe zum Ort des Geschehens gerufen. Ein Gnom zeigt ihnen das Haus, das Archi ihnen vermacht hat – [[Archis Haus]]. Archi scheint geahnt zu haben, was kommt: *„Mein Ableben wird bald passieren.“* Auch [[Laeral Silverhand]] ist in die Angelegenheit eingebunden; Magier haben sich das Haus angesehen, und Wappen und anderes wurden verändert. Auf [[Castle Waterdeep]] erhält die Gruppe ihre Ausweiskarten.
+Einen Monat nach Archis Tod wird die Gruppe zum Ort des Geschehens gerufen. Ein Gnom zeigt ihnen das Haus, das Archi ihnen vermacht hat – [[Archis Haus]]. Archi scheint geahnt zu haben, was kommt: *„Mein Ableben wird bald passieren.“* Auch [[Laeral Silverhand]] ist in die Angelegenheit eingebunden; Magier haben sich das Haus angesehen, und Wappen und anderes wurden verändert. Auf Greifen wird die Gruppe zu [[Castle Waterdeep]] gebracht und erhält dort ihre Ausweiskarten.
 
 Im Haus findet sich ein *Trank der Gasform* am Kronleuchter. Ein Beschwörungszauber zeigt ein fremdartiges Monster.
 
@@ -32,7 +32,9 @@ Im Haus findet sich ein *Trank der Gasform* am Kronleuchter. Ein Beschwörungsza
 Die Gruppe lernt wichtige Leute der Stadt kennen bzw. von ihnen:
 
 - [[Eugene]], ein Graf und Steuereintreiber auf Castle Waterdeep – angeblich Selbstmord, doch es gibt keine Leiche.
-- [[Safra Belagra]] als Kontakt.
+- [[Safra Belagra]], eine Frau von hohem Rang.
+- [[Philipp Archibald]], ein Tiefling-Kleriker.
+- [[Philip van der Gern]], Händler und wichtige Person mit einem nach unten gerichteten Drachen im Wappen.
 - [[Luther Burden]], Offizier der Wache.
 - [[Laeral Silverhand]], Fürstin von Waterdeep, und die zwölf geheimen Lords der Stadt.
 - [[Derek Windfire]], ein großer Kämpfer, der in die Hölle – nach Avernus – ging.

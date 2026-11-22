@@ -21,7 +21,7 @@ sources:
 
 > Früherer Besitzer des Hauses der Gruppe – verschollen
 
-    ## Bekanntes
+## Bekanntes
 
 - Das Haus der Gruppe war früher sein Haus. → [[Archis Haus]]
 - Hat offenbar mit [[Xanathar]] zusammengearbeitet. Xanathar will wissen, was mit ihm passiert ist ([[Session 06.11.2026]]).

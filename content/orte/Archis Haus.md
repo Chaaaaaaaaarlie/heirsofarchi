@@ -57,7 +57,7 @@ Im Kamin gibt es einen **Geheimgang**. → [[Geheimgang im Kamin]]
 
 ## Ausstattung
 
-- Neue Schlösser (gekauft bei [[Philip Wandergern]], eingebaut in [[Session 20.11.2026]])
+- Neue Schlösser (gekauft bei [[Philip van der Gern]], eingebaut in [[Session 20.11.2026]])
 - Eine immer leuchtende lila Fackel aus [[Xanathars Versteck]] im Kamin
 
 ## Besonderheiten

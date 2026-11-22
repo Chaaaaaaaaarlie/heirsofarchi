@@ -27,5 +27,5 @@ Söldner- und Schmugglernetzwerk, Rivale der [[Xanathar-Gilde]].
 - Haben eine Schmuggeloperation Xanathars überfallen → [[Zhentarim-Schmuggellager]] ([[Session 06.11.2026]]).
 - Ihr Gildenhaus im North Ward ist als Hotel und Taverne getarnt → [[Zhentarim-Gildenhaus]].
 - Gildenmeister: [[Dusk]].
-- Der Schlosser [[Philip Wandergern]] soll mit ihnen in Verbindung stehen.
+- Der Schlosser [[Philip van der Gern]] soll mit ihnen in Verbindung stehen.
 - Bewahren laut Verhör das Gegenstück zu Archis Stein der Botschaften auf. → [[Archis Verbleib]]

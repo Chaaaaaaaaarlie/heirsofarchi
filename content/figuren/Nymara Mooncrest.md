@@ -22,7 +22,7 @@ sources:
 
 > **Spielercharakter** · Hochelfe · Magierin
 
-    ## Beschreibung
+## Beschreibung
 
 Hochelfische Magierin der Gruppe, meist kurz **Ny** genannt. Bewohnt in [[Archis Haus]] das Balkonzimmer.
 
@@ -37,7 +37,7 @@ Hochelfische Magierin der Gruppe, meist kurz **Ny** genannt. Bewohnt in [[Archis
 - Trägt einen *Trank der Gasform* und eine *Zauberschriftrolle: Chromatic Orb* (siehe [[Gruppeninventar]]).
 - Schleicht sich in [[Session 20.11.2026]] mit drei anderen ins [[Zhentarim-Gildenhaus]] ein.
 
-    ## Aus dem Alltag
+## Aus dem Alltag
 
 - Bewohnt das Balkonzimmer; [[Maxael Wolkenwanderer|Maxael]] schläft dort mit – Ny auf seinem Rücken.
 - Ihre Familie schreibt wegen Geld und fordert, dass sie den Namen Mooncrest nicht verwendet.
@@ -46,5 +46,5 @@ Hochelfische Magierin der Gruppe, meist kurz **Ny** genannt. Bewohnt in [[Archis
 
 ## Verknüpfungen
 
-    - Teil der [[Die Gruppe|Gruppe]]
-    - Wohnt in [[Archis Haus]]
+- Teil der [[Die Gruppe|Gruppe]]
+- Wohnt in [[Archis Haus]]

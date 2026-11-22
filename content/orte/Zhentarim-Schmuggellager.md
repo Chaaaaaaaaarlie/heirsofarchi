@@ -7,6 +7,7 @@ tags:
   - domain/locations
 status: seed
 entity_type: place
+location: "[[Dock Ward]]"
 related:
   - "[[Zhentarim]]"
   - "[[Xanathar-Gilde]]"
@@ -16,7 +17,7 @@ sources:
 
 # Zhentarim-Schmuggellager
 
-Ein Schmuggellager auf dem Weg Richtung [[Skullport]] ([[Session 06.11.2026]]).
+Ein Schmuggellager im [[Dock Ward]] ([[Session 06.11.2026]]). Die Gruppe war eigentlich Richtung [[Skullport]] aufgebrochen.
 
 ## Bekanntes
 

@@ -19,7 +19,7 @@ sources:
 
 > **Spielercharakter** · Mensch · Paladin
 
-    ## Beschreibung
+## Beschreibung
 
 Menschliche Paladinin der Gruppe.
 
@@ -29,7 +29,7 @@ Menschliche Paladinin der Gruppe.
 - Spricht in [[Session 20.11.2026]] mit [[Sarah Bellabrand]] vom [[Order of the Gauntlet]].
 - Wartet in [[Session 20.11.2026]] mit [[Mogglewog|Moggle]] vor dem [[Zhentarim-Gildenhaus]].
 
-    ## Hintergrund
+## Hintergrund
 
 - Paladin und Mitglied der Wache von Waterdeep ([[Stadtwache]]).
 - Lässt [[Archis Haus]] mit neuen Schlössern sichern (150 G).
@@ -37,5 +37,5 @@ Menschliche Paladinin der Gruppe.
 
 ## Verknüpfungen
 
-    - Teil der [[Die Gruppe|Gruppe]]
-    - Wohnt in [[Archis Haus]]
+- Teil der [[Die Gruppe|Gruppe]]
+- Wohnt in [[Archis Haus]]

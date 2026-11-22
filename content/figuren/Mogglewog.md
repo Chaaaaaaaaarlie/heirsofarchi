@@ -25,7 +25,7 @@ sources:
 
 > **Spielercharakter** · Goblin · Kleriker
 
-    ## Beschreibung
+## Beschreibung
 
 Goblin-Kleriker der Gruppe, meist **Moggle** genannt. Bewohnt in [[Archis Haus]] das kleinste Zimmer.
 
@@ -35,12 +35,12 @@ Goblin-Kleriker der Gruppe, meist **Moggle** genannt. Bewohnt in [[Archis Haus]]
 - Erhält in [[Session 20.11.2026]] vom [[Order of the Gauntlet]] einen *Schild +1*.
 - Wartet in [[Session 20.11.2026]] mit [[Mira]] vor dem [[Zhentarim-Gildenhaus]].
 
-    ## Hintergrund
+## Hintergrund
 
 - Heilkundig (Medizin).
 - Rettet im [[Dock Ward]] ein Kind.
 
 ## Verknüpfungen
 
-    - Teil der [[Die Gruppe|Gruppe]]
-    - Wohnt in [[Archis Haus]]
+- Teil der [[Die Gruppe|Gruppe]]
+- Wohnt in [[Archis Haus]]

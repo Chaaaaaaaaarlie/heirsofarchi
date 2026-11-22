@@ -16,7 +16,7 @@ related:
 
 > Buchhalter in hoher Stellung – vermutlich tot
 
-    - War Buchhalter in hoher Stellung.
+- War Buchhalter in hoher Stellung.
 - Vermutlich tot; angeblich Selbstmord. → [[Eugenes Tod]]
 
 ## Mehr

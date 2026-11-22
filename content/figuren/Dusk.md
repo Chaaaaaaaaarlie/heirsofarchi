@@ -19,7 +19,7 @@ sources:
 
 > Gildenmeister der Zhentarim
 
-    ## Bekanntes
+## Bekanntes
 
 - Gildenmeister im [[Zhentarim-Gildenhaus]].
 - Die Gruppe findet eine kleine Kiste mit 25 G und seiner Besitzurkunde über zwei Rennpferde ([[Session 20.11.2026]]).
