@@ -16,4 +16,4 @@ sources:
 
 # Hammerwraiths
 
-Bande in [[Skullport]], die von Durchreisenden Wegzoll verlangt. Scheint Respekt vor dem [[Order of the Gauntlet]] zu haben ([[Session 20.11.2026]]).
+Bande im [[Dock Ward]], die von Durchreisenden Wegzoll verlangt. Scheint Respekt vor dem [[Order of the Gauntlet]] zu haben ([[Session 20.11.2026]]).

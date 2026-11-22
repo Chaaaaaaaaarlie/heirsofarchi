@@ -18,7 +18,7 @@ sources:
 
 - [[Archi]] hat mit [[Xanathar]] zusammengearbeitet; Xanathar will wissen, was mit ihm passiert ist.
 - In Archi ist ein Stein der Botschaften eingepflanzt; das Gegenstück könnte ihn aufspüren.
-- Das Gegenstück lag nicht in Xanathars Sicherheitshaus in [[Skullport]], sondern laut Verhör im [[Zhentarim-Gildenhaus]].
+- Laut Xanathar sollte das Gegenstück in seinem Sicherheitshaus in [[Skullport]] liegen; laut Verhör befindet es sich inzwischen im [[Zhentarim-Gildenhaus]].
 - [[Askasiva]] behauptet, Archi lebe.
 
 ## Neu

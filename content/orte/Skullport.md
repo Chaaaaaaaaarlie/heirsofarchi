@@ -7,11 +7,8 @@ tags:
   - domain/locations
 status: seed
 entity_type: place
-related:
-  - "[[Hammerwraiths]]"
 sources:
   - "[[Session 06.11.2026]]"
-  - "[[Session 20.11.2026]]"
 ---
 
 # Skullport
@@ -21,5 +18,4 @@ Unterirdische Stadt unter [[Waterdeep]].
 ## Bekanntes
 
 - [[Xanathar]] hat hier ein Sicherheitshaus, in dem das Gegenstück zu Archis Stein der Botschaften liegen sollte.
-- Die [[Hammerwraiths]] verlangen Wegzoll.
-- Hier begegnet die Gruppe [[Askasiva]] ([[Session 20.11.2026]]).
+- Die Gruppe brach in [[Session 06.11.2026]] in diese Richtung auf, war aber bisher nicht in Skullport.

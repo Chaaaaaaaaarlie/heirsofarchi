@@ -63,4 +63,4 @@ Im Kamin gibt es einen **Geheimgang**. → [[Geheimgang im Kamin]]
 ## Besonderheiten
 
 - In der Eingangshalle ein übermaltes Wappen mit einem Schwan → [[Das übermalte Wappen]]
-- Nach der Rückkehr aus Skullport hängen am Haus ein Zettel vom Steuereintreiber und ein Brief an Ny. → [[Steuereintreiber]], [[Brief von Nymaras Familie]]
+- Nach der Rückkehr aus dem Dock Ward hängen am Haus ein Zettel vom Steuereintreiber und ein Brief an Ny. → [[Steuereintreiber]], [[Brief von Nymaras Familie]]

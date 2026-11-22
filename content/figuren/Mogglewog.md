@@ -38,7 +38,7 @@ Goblin-Kleriker der Gruppe, meist **Moggle** genannt. Bewohnt in [[Archis Haus]]
     ## Hintergrund
 
 - Heilkundig (Medizin).
-- Rettet in [[Skullport]] ein Kind.
+- Rettet im [[Dock Ward]] ein Kind.
 
 ## Verknüpfungen
 

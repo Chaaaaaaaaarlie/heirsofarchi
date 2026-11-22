@@ -7,6 +7,10 @@ updated: 2026-11-22
 
 # Vorgangs-Protokoll
 
+## [2026-11-22] korrektur | Dock Ward statt Skullport
+
+- Die Ereignisse zu Beginn von [[Session 20.11.2026]] (Askasiva, Hammerwraiths, gerettetes Kind) spielten im [[Dock Ward]], nicht in [[Skullport]]. Die Gruppe war bisher nicht in Skullport.
+
 ## [2026-11-22] ingest | Handschriftliche Notizen von Nymara
 
 - Neu: [[Kampagnenbeginn]], [[Elisabeth]], [[Elijah]], [[Jim]], [[Ayos Flint]], [[Harfner]], [[Castle Waterdeep]], [[Zauber lernen]], [[Die geheime Nachricht im Gemälde]], [[Geheimgang im Kamin]].

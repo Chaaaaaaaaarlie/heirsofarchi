@@ -20,13 +20,13 @@ related:
 
 ## Zusammenfassung
 
-Begegnungen in [[Skullport]], Geschäfte in der Stadt, Unterstützung vom [[Order of the Gauntlet]] – und der Einbruch ins [[Zhentarim-Gildenhaus]].
+Begegnungen im [[Dock Ward]], Geschäfte in der Stadt, Unterstützung vom [[Order of the Gauntlet]] – und der Einbruch ins [[Zhentarim-Gildenhaus]].
 
 ## Ablauf
 
-### Skullport
+### Im Dock Ward
 
-[[Askasiva]], Elf vom [[Karneval]] an den Docks, weiß erstaunlich viel über die Gruppe. Sie behauptet, [[Archi]] lebe, und warnt vor [[Xanathar]]. Ihr Rat: *„Passt auf, wem ihr ans Bein pisst – und wem ihr was gebt.“* Skullport ist gefährlich; [[Mogglewog|Moggle]] rettet dort ein Kind. Auf dem Rückweg verfolgen Menschen und Orks die Gruppe. Die [[Hammerwraiths]] verlangen Wegzoll, doch als [[Mira]] sich eindrucksvoll auf den [[Order of the Gauntlet]] beruft, zeigen sie Respekt.
+[[Askasiva]], Elf vom [[Karneval]] an den Docks, weiß erstaunlich viel über die Gruppe. Sie behauptet, [[Archi]] lebe, und warnt vor [[Xanathar]]. Ihr Rat: *„Passt auf, wem ihr ans Bein pisst – und wem ihr was gebt.“* Das Viertel ist gefährlich; [[Mogglewog|Moggle]] rettet dort ein Kind. Auf dem Rückweg verfolgen Menschen und Orks die Gruppe. Die [[Hammerwraiths]] verlangen Wegzoll, doch als [[Mira]] sich eindrucksvoll auf den [[Order of the Gauntlet]] beruft, zeigen sie Respekt.
 
 ### Zurück in der Stadt
 

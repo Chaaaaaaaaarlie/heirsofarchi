@@ -21,7 +21,7 @@ related:
 
 ## Zusammenfassung
 
-Die Gruppe dringt in [[Xanathars Versteck]] ein, wird von [[Xanathar]] empfangen und erfährt von [[Archi|Archis]] Verbindung zu ihm. Auf dem Weg nach [[Skullport]] stößt sie auf ein überfallenes Schmuggellager.
+Die Gruppe dringt in [[Xanathars Versteck]] ein, wird von [[Xanathar]] empfangen und erfährt von [[Archi|Archis]] Verbindung zu ihm. Auf dem Weg Richtung [[Skullport]] stößt sie auf ein überfallenes Schmuggellager.
 
 ## Ablauf
 
@@ -50,7 +50,7 @@ Die Gruppe wird in Xanathars Büro eingeladen. [[Archi]] hat offenbar mit Xanath
 
 ### Das Schmuggellager
 
-Auf dem Weg nach Skullport erreicht die Gruppe ein [[Zhentarim-Schmuggellager]]. Es kommt zum Kampf, zwei Gefangene werden genommen. Die Leichen im Schuppen tragen Xanathars Zeichen – offenbar haben die [[Zhentarim]] Xanathars Schmuggeloperation überfallen. Einer der Toten war ein Kultist des [[Asmodeus]].
+Auf dem Weg Richtung Skullport erreicht die Gruppe ein [[Zhentarim-Schmuggellager]]. Es kommt zum Kampf, zwei Gefangene werden genommen. Die Leichen im Schuppen tragen Xanathars Zeichen – offenbar haben die [[Zhentarim]] Xanathars Schmuggeloperation überfallen. Einer der Toten war ein Kultist des [[Asmodeus]].
 
 Beute: ein Porträt (Wert etwa 75 G), eine *Immerrauchende Flasche* und ein Diamant. Beim Verhör eines Gefangenen namens [[Jim]] erfährt die Gruppe, dass der Stein im [[Zhentarim-Gildenhaus]] im [[North Ward]] liegt, das als Gasthaus getarnt ist und von 12–20 Leuten bewacht wird.
 

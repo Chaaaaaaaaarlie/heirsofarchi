@@ -32,7 +32,7 @@ Hochelfische Magierin der Gruppe, meist kurz **Ny** genannt. Bewohnt in [[Archis
 
 ## Bekanntes
 
-- Hat ein schlechtes Verhältnis zu ihrer Familie. Nach der Rückkehr aus [[Skullport]] hängt am Haus ein Brief ihrer Familie an sie ([[Session 20.11.2026]]). → [[Brief von Nymaras Familie]]
+- Hat ein schlechtes Verhältnis zu ihrer Familie. Nach der Rückkehr aus dem [[Dock Ward]] hängt am Haus ein Brief ihrer Familie an sie ([[Session 20.11.2026]]). → [[Brief von Nymaras Familie]]
 - Kauft in [[Session 20.11.2026]] neue Zauber für 600 G.
 - Trägt einen *Trank der Gasform* und eine *Zauberschriftrolle: Chromatic Orb* (siehe [[Gruppeninventar]]).
 - Schleicht sich in [[Session 20.11.2026]] mit drei anderen ins [[Zhentarim-Gildenhaus]] ein.

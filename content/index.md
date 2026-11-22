@@ -17,7 +17,7 @@ Spielerseitiges Wiki der Erben von [[Archi]] – der Gruppe um [[Nymara Mooncres
 
 ## Sessions
 
-- [[Session 20.11.2026]] – Skullport, Unterstützung vom Gauntlet, Einbruch ins Zhentarim-Gildenhaus
+- [[Session 20.11.2026]] – Dock Ward, Unterstützung vom Gauntlet, Einbruch ins Zhentarim-Gildenhaus
 - [[Session 06.11.2026]] – Xanathars Versteck, Archis Stein der Botschaften, Überfall auf ein Schmuggellager
 - [[Kampagnenbeginn]] – Archis Erbe, das Haus, erste Kontakte
 
@@ -45,7 +45,7 @@ Spielerseitiges Wiki der Erben von [[Archi]] – der Gruppe um [[Nymara Mooncres
 ## Orte
 
 - [[Waterdeep]] mit allen Vierteln
-- [[Skullport]] · [[Xanathars Versteck]] · [[Zhentarim-Gildenhaus]]
+- [[Dock Ward]] · [[Xanathars Versteck]] · [[Zhentarim-Gildenhaus]]
 
 ## Alle Seiten
 

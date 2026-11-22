@@ -16,7 +16,7 @@ sources:
 
 # Zhentarim-Schmuggellager
 
-Ein Schmuggellager auf dem Weg nach [[Skullport]] ([[Session 06.11.2026]]).
+Ein Schmuggellager auf dem Weg Richtung [[Skullport]] ([[Session 06.11.2026]]).
 
 ## Bekanntes
 
