@@ -7,6 +7,10 @@ updated: 2026-11-22
 
 # Vorgangs-Protokoll
 
+## [2026-11-22] korrektur | Theofilio
+
+- Schreibweise bestätigt: [[Theofilio]].
+
 ## [2026-11-22] ingest | Einladungsschreiben
 
 - Neu: [[Einladungsschreiben der Stadt Waterdeep]] (Handout vor Kampagnenbeginn), [[Fineas Blanch]]. [[Archi]] heißt Archibald Eutern; voller Titel von [[Laeral Silverhand]] ergänzt.

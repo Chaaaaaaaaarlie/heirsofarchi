@@ -23,7 +23,7 @@ sources:
 
 ## Beschreibung
 
-Goliath-Schurke der Gruppe, meist **Theo** genannt. Sein Name wird auch „Theofilius“ geschrieben.
+Goliath-Schurke der Gruppe, meist **Theo** genannt.
 
 ## Bekanntes
 
