@@ -18,3 +18,8 @@ related:
 
     - War Buchhalter in hoher Stellung.
 - Vermutlich tot; angeblich Selbstmord. → [[Eugenes Tod]]
+
+## Mehr
+
+- Ein Graf, Steuereintreiber auf [[Castle Waterdeep]].
+- Angeblich Selbstmord – doch es gibt keine Leiche.

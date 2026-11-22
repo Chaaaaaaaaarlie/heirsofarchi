@@ -24,3 +24,7 @@ sources:
 - Gnomischer Schlosser, bei dem die Gruppe neue Schlösser für [[Archis Haus]] kauft ([[Session 20.11.2026]]).
 - Soll etwas mit den [[Zhentarim]] zu tun haben.
 - Hat seitdem Ärger mit [[Toki]]. → [[Wer sucht Toki?]]
+
+## Mehr
+
+- Gilt als wichtige Person.

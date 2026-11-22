@@ -34,7 +34,11 @@ Gnomischer Druide der Gruppe.
 - Auf dem Heimweg wird die Gruppe verfolgt – drei Leute suchen gezielt nach Toki. → [[Wer sucht Toki?]]
 - Entdeckt in der Eingangshalle von [[Archis Haus]] ein übermaltes Wappen mit einem Schwan. → [[Das übermalte Wappen]]
 
-    ## Verknüpfungen
+    ## Im Haus
+
+- Schläft im Kaminzimmer mit der Bibliothek in [[Archis Haus]].
+
+## Verknüpfungen
 
     - Teil der [[Die Gruppe|Gruppe]]
     - Wohnt in [[Archis Haus]]

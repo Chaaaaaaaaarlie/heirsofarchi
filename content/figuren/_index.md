@@ -12,11 +12,15 @@ tags:
 - [[Anton Finderberg]] — Offizier der Stadtwache
 - [[Archi]] — Früherer Besitzer des Hauses der Gruppe – verschollen
 - [[Askasiva]] — Elf vom Karneval an den Docks
+- [[Ayos Flint]] — Anführer einer kriminellen Splittergruppe
 - [[Derek Windfire]] — Drachenblütiger, Hauptmann der Stadtwache
 - [[Dusk]] — Gildenmeister der Zhentarim
+- [[Elijah]] — Mensch, Empfang im Zhentarim-Gildenhaus
+- [[Elisabeth]] — Alte Elfe, Bank von Waterdeep
 - [[Eugene]] — Buchhalter in hoher Stellung – vermutlich tot
 - [[Flutterfott]] — Gnom, Entertainer, Angestellter Xanathars
 - [[Gaston]] — Betrachter-Zombie in Xanathars Versteck
+- [[Jim]] — Gefangener aus dem Zhentarim-Schmuggellager
 - [[Laeral Silverhand]] — Offene Fürstin von Waterdeep
 - [[Luther Burden]] — Halbling, Offizier der Stadtwache
 - [[Maxael Wolkenwanderer]] — Spielercharakter

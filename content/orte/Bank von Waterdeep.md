@@ -14,3 +14,9 @@ sources:
 # Bank von Waterdeep
 
 Die Gruppe hat ein Konto eröffnet und 300 G angelegt (1 % Zinsen pro Monat). Die Bank will prüfen, ob auf einem Konto von [[Archi]] noch Geld für seine Erben liegt ([[Session 20.11.2026]]).
+
+## Mehr
+
+- Ansprechpartnerin: [[Elisabeth]].
+- Für das Haus fallen 150 G Steuern pro Woche an.
+- [[Archi]]s Konto ist gesperrt.

@@ -14,3 +14,7 @@ sources:
 # Brief von Nymaras Familie
 
 - [[Nymara Mooncrest]] erhält einen Brief ihrer Familie, zu der sie ein schlechtes Verhältnis hat ([[Session 20.11.2026]]).
+
+## Inhalt
+
+- Es geht um Geld; Ny soll den Namen Mooncrest nicht verwenden.

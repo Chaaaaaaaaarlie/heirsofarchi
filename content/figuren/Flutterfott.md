@@ -22,3 +22,7 @@ sources:
 
 - Gnomischer Entertainer im Dienst von [[Xanathar]].
 - Stellt der Gruppe in [[Xanathars Versteck]] ein Rätsel (Lösung: *Lachen*) – siehe [[Session 06.11.2026]].
+
+## Mehr
+
+- Ein Gnom und Clown; verschwand nach dem Rätsel.

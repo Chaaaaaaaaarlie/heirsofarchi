@@ -12,6 +12,7 @@ tags:
 - [[Archis Haus]]
 - [[Bank von Waterdeep]]
 - [[Castle Ward]]
+- [[Castle Waterdeep]]
 - [[City of the Dead]]
 - [[Dock Ward]]
 - [[Field Ward]]

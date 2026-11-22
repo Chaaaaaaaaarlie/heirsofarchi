@@ -14,3 +14,7 @@ sources:
 # Werratten
 
 In [[Session 06.11.2026]] tötet die Gruppe zwei Werratten. Ihre Tätowierungen sind zerstört – vermutlich Ausgestoßene ihrer eigenen Gruppe.
+
+## Mehr
+
+Getötet wurden zwei Werratten und ein Mensch, allesamt Ausgestoßene.

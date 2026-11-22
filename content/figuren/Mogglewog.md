@@ -35,7 +35,12 @@ Goblin-Kleriker der Gruppe, meist **Moggle** genannt. Bewohnt in [[Archis Haus]]
 - Erhält in [[Session 20.11.2026]] vom [[Order of the Gauntlet]] einen *Schild +1*.
 - Wartet in [[Session 20.11.2026]] mit [[Mira]] vor dem [[Zhentarim-Gildenhaus]].
 
-    ## Verknüpfungen
+    ## Hintergrund
+
+- Heilkundig (Medizin).
+- Rettet in [[Skullport]] ein Kind.
+
+## Verknüpfungen
 
     - Teil der [[Die Gruppe|Gruppe]]
     - Wohnt in [[Archis Haus]]

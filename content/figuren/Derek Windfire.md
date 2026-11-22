@@ -17,3 +17,7 @@ related:
 > Drachenblütiger, Hauptmann der Stadtwache
 
 - Drachenblütiger, Hauptmann der Wache von [[Waterdeep]]. → [[Stadtwache]]
+
+## Mehr
+
+- Ein großer Kämpfer, der in die Hölle ging – nach Avernus.

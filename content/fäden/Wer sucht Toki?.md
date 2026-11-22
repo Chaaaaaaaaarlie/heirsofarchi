@@ -15,3 +15,7 @@ sources:
 
 - Auf dem Heimweg wird die Gruppe erneut verfolgt; drei Leute suchen nach [[Toki]].
 - Zusammenhang mit dem Streit mit [[Philip Wandergern]] (Zhentarim-Kontakt)?
+
+## Verfolger
+
+- Ein Ork, ein Halbling und eine ältere, fast kahle Elfe.

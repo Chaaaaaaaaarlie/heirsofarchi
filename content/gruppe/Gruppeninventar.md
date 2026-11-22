@@ -17,7 +17,7 @@ aliases:
 ## Geld
 
 - **Gruppenkasse:** 65 G
-- **Bankkonto:** 300 G angelegt (1 % Zinsen pro Monat) – siehe [[Bank von Waterdeep]]
+- **Bankkonto:** 300 G angelegt (1 % Zinsen pro Monat; 150 G Haussteuer pro Woche) – siehe [[Bank von Waterdeep]]
 
 ## Ausrüstung
 
@@ -31,10 +31,11 @@ aliases:
 
 ## Sonstiges
 
-- Ewige Fackel (brennt im Kamin von [[Archis Haus]])
+- Immer leuchtende lila Fackel aus [[Xanathars Versteck]] (brennt im Kamin von [[Archis Haus]])
+- Ein Diamant (aus dem [[Zhentarim-Schmuggellager]])
 - Immerrauchende Flasche (*Eversmoking Bottle*)
 - Laterne der Enthüllung (*Lantern of Revealing*) – aus dem [[Zhentarim-Gildenhaus]]
-- Besitzurkunde über zwei Rennpferde – gehörte [[Dusk]]
+- Besitzurkunde über zwei Rennpferde, *Winterschatten* und *Nebelwind* – gehörte [[Dusk]]
 - Ein Schlüssel mit der Prägung „MC" – aus dem [[Zhentarim-Gildenhaus]]
 
 ## Verkauft

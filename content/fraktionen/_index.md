@@ -11,6 +11,7 @@ tags:
 
 - [[Familie Castlelanter]]
 - [[Hammerwraiths]]
+- [[Harfner]]
 - [[Karneval]]
 - [[Order of the Gauntlet]]
 - [[Stadtwache]]

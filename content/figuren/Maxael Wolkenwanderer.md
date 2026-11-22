@@ -35,7 +35,12 @@ Goliath-Kämpfer der Gruppe.
 - Trägt das *Amulett des Schutzes vor Erkenntniszaubern* (siehe [[Gruppeninventar]]).
 - Gehört in [[Session 20.11.2026]] zu den vier, die sich im [[Zhentarim-Gildenhaus]] einmieten.
 
-    ## Verknüpfungen
+    ## Klasse
+
+- Eldritch Knight.
+- Sein Amulett des Schutzes vor Erkenntniszaubern steht in Verbindung mit den [[Harfner]]n.
+
+## Verknüpfungen
 
     - Teil der [[Die Gruppe|Gruppe]]
     - Wohnt in [[Archis Haus]]

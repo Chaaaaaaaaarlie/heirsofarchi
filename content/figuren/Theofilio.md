@@ -29,7 +29,12 @@ Goliath-Schurke der Gruppe, meist **Theo** genannt.
 - Trägt einen *Trank der Unsichtbarkeit* (siehe [[Gruppeninventar]]).
 - Wird beim Einbruch ins [[Zhentarim-Gildenhaus]] in [[Session 20.11.2026]] ins andere Gebäude teleportiert und von der Gruppe getrennt. → [[Einbruch ins Zhentarim-Gildenhaus]]
 
-    ## Verknüpfungen
+    ## Hintergrund
+
+- Schauspieler; in Waterdeep gibt es ein Theater, in dem er auftritt.
+- Hat Bezug zu den Greifenreitern.
+
+## Verknüpfungen
 
     - Teil der [[Die Gruppe|Gruppe]]
     - Wohnt in [[Archis Haus]]

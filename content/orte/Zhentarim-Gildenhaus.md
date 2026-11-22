@@ -26,4 +26,9 @@ Gildenhaus der [[Zhentarim]] im [[North Ward]], als Hotel und Taverne getarnt.
 - Zwei Türme. Etwa ein Dutzend Leute (laut Verhör 12–20), der Boss sitzt im Turmbüro.
 - Hier soll das Gegenstück zu Archis Stein der Botschaften liegen. → [[Archis Verbleib]]
 - Gildenmeister: [[Dusk]].
+## Aufbau
+
+- Pferdeställe, Empfang ([[Elijah]]), Turm. Im Turm schreit jemand.
+- Hotel mit wenig Gästen; Zimmer mit Fenster zur Straße.
+
 - Siehe [[Einbruch ins Zhentarim-Gildenhaus]].

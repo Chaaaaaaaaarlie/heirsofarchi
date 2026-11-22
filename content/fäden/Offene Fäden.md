@@ -18,6 +18,8 @@ status: active
 ## Mittel
 
 - [[Wer sucht Toki?]]
+- [[Die geheime Nachricht im Gemälde]]
+- [[Geheimgang im Kamin]]
 - [[Das übermalte Wappen]]
 - [[Moggles Familie]]
 

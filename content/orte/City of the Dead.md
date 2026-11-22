@@ -15,4 +15,8 @@ related:
 
 Stadtviertel von [[Waterdeep]].
 
-Noch keine Ereignisse festgehalten.
+## Mehr
+
+Tagsüber ein Park.
+
+- Station der Stadtführung in [[Session 20.11.2026]].

@@ -7,7 +7,7 @@ updated: 2026-11-22
 
 # Waterdeep – Kampagnen-Wiki
 
-Spielerseitiges Wiki der Gruppe um [[Nymara Mooncrest|Ny]], [[Toki]], [[Maxael Wolkenwanderer|Maxael]], [[Mogglewog|Moggle]], [[Mira]] und [[Theofilio|Theo]] in den Straßen und Unterwelten von [[Waterdeep]].
+Spielerseitiges Wiki der Erben von [[Archi]] – der Gruppe um [[Nymara Mooncrest|Ny]], [[Toki]], [[Maxael Wolkenwanderer|Maxael]], [[Mogglewog|Moggle]], [[Mira]] und [[Theofilio|Theo]] in den Straßen und Unterwelten von [[Waterdeep]].
 
 ## Die Gruppe
 
@@ -19,6 +19,7 @@ Spielerseitiges Wiki der Gruppe um [[Nymara Mooncrest|Ny]], [[Toki]], [[Maxael W
 
 - [[Session 20.11.2026]] – Skullport, Unterstützung vom Gauntlet, Einbruch ins Zhentarim-Gildenhaus
 - [[Session 06.11.2026]] – Xanathars Versteck, Archis Stein der Botschaften, Überfall auf ein Schmuggellager
+- [[Kampagnenbeginn]] – Archis Erbe, das Haus, erste Kontakte
 
 ## Aktuelle Fäden
 
@@ -26,6 +27,7 @@ Spielerseitiges Wiki der Gruppe um [[Nymara Mooncrest|Ny]], [[Toki]], [[Maxael W
 - [[Archis Verbleib]]
 - [[Wer sucht Toki?]]
 - [[Das übermalte Wappen]]
+- [[Die geheime Nachricht im Gemälde]]
 - → [[Offene Fäden|alle Fäden]]
 
 ## Fraktionen
@@ -56,17 +58,22 @@ Spielerseitiges Wiki der Gruppe um [[Nymara Mooncrest|Ny]], [[Toki]], [[Maxael W
 
 - [[Session 20.11.2026]]
 - [[Session 06.11.2026]]
+- [[Kampagnenbeginn]]
 
 ### [[figuren/_index|Figuren]]
 
 - [[Anton Finderberg]]
 - [[Archi]]
 - [[Askasiva]]
+- [[Ayos Flint]]
 - [[Derek Windfire]]
 - [[Dusk]]
+- [[Elijah]]
+- [[Elisabeth]]
 - [[Eugene]]
 - [[Flutterfott]]
 - [[Gaston]]
+- [[Jim]]
 - [[Laeral Silverhand]]
 - [[Luther Burden]]
 - [[Maxael Wolkenwanderer]]
@@ -85,6 +92,7 @@ Spielerseitiges Wiki der Gruppe um [[Nymara Mooncrest|Ny]], [[Toki]], [[Maxael W
 
 - [[Familie Castlelanter]]
 - [[Hammerwraiths]]
+- [[Harfner]]
 - [[Karneval]]
 - [[Order of the Gauntlet]]
 - [[Stadtwache]]
@@ -97,6 +105,7 @@ Spielerseitiges Wiki der Gruppe um [[Nymara Mooncrest|Ny]], [[Toki]], [[Maxael W
 - [[Archis Haus]]
 - [[Bank von Waterdeep]]
 - [[Castle Ward]]
+- [[Castle Waterdeep]]
 - [[City of the Dead]]
 - [[Dock Ward]]
 - [[Field Ward]]
@@ -115,14 +124,20 @@ Spielerseitiges Wiki der Gruppe um [[Nymara Mooncrest|Ny]], [[Toki]], [[Maxael W
 - [[Asmodeus]]
 - [[Orcus]]
 
+### [[konzepte/_index|Konzepte]]
+
+- [[Zauber lernen]]
+
 ### [[fäden/_index|Fäden]]
 
 - [[Archis Verbleib]]
 - [[Asmodeus-Kult]]
 - [[Brief von Nymaras Familie]]
 - [[Das übermalte Wappen]]
+- [[Die geheime Nachricht im Gemälde]]
 - [[Einbruch ins Zhentarim-Gildenhaus]]
 - [[Eugenes Tod]]
+- [[Geheimgang im Kamin]]
 - [[Moggles Familie]]
 - [[Offene Fäden]]
 - [[Steuereintreiber]]

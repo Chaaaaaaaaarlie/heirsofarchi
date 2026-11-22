@@ -21,6 +21,11 @@ sources:
 - Das Gegenstück lag nicht in Xanathars Sicherheitshaus in [[Skullport]], sondern laut Verhör im [[Zhentarim-Gildenhaus]].
 - [[Askasiva]] behauptet, Archi lebe.
 
+## Neu
+
+- Archis Konto bei der [[Bank von Waterdeep]] ist gesperrt.
+- Er ahnte sein „Ableben“ voraus und vermachte der Gruppe sein Haus ([[Kampagnenbeginn]]).
+
 ## Offene Fragen
 
 - Lebt Archi wirklich – und wo ist er?

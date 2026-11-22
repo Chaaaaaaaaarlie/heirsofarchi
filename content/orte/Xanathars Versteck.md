@@ -29,3 +29,9 @@ Das Versteck von [[Xanathar]] unter [[Waterdeep]].
 - [[Mira]], [[Mogglewog|Moggle]] und [[Maxael Wolkenwanderer|Maxael]] wird etwas Leckeres aufgetischt.
 - Bewohner: Duergar, Drow, Intellektfresser, der Gedankenschinder [[Nihilor]], der Betrachter-Zombie [[Gaston]], ein Spectator, Rotkappen.
 - Xanathars Büro, in dem die Gruppe empfangen wird.
+
+## Mehr
+
+- Das Auge Xanathars prangt über einer Treppe.
+- Eine Arena mit einem Spectator, Zwergen und Rotkappen.
+- Eine immer leuchtende lila Fackel (heute im Kamin von [[Archis Haus]]).

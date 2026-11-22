@@ -11,3 +11,4 @@ tags:
 
 - [[Session 20.11.2026]]
 - [[Session 06.11.2026]]
+- [[Kampagnenbeginn]]

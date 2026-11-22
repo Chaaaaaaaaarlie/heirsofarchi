@@ -26,6 +26,12 @@ Die Stadt der Prachtentfaltung – Schauplatz der Kampagne. Regiert von der Offe
 - [[South Ward]]
 - [[Trade Ward]]
 
+## Magieläden
+
+- *Magische Allzweck-Hexerei*
+- *Wilfried's Wizardy World*
+- *Stellas Super-Stäbe*
+
 ## Unter der Stadt
 
 - [[Xanathars Versteck]]

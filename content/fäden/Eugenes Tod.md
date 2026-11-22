@@ -12,3 +12,7 @@ priorität: niedrig
 # Eugenes Tod
 
 - [[Eugene]], ein Buchhalter in hoher Stellung, ist vermutlich tot – angeblich Selbstmord.
+
+## Mehr
+
+- Graf und Steuereintreiber auf [[Castle Waterdeep]]; es gibt keine Leiche.

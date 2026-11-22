@@ -28,15 +28,37 @@ Im Süden des [[North Ward]], nahe der Grenze zum [[Castle Ward]].
 
 ## Räume
 
-Acht Zimmer.
+Acht Zimmer, nahe dem Marktplatz.
 
-- Balkonzimmer: [[Nymara Mooncrest|Ny]]
-- Kleinstes Zimmer: [[Mogglewog|Moggle]]
+### Erdgeschoss
+
+- Eingangshalle (mit dem übermalten Wappen)
+- Küche und Vorratsraum
+- Garage
+
+### Obergeschoss
+
+1. **Kleines Zimmer ohne Fenster** – Karten; eine Tafel mit dem Bild einer Elfe mit weißem Haar, Hut und etwas Metallischem.
+2. **Zimmer mit Fenster** – angebrannter, kaputter Schreibtisch; Schreiben mit dem Symbol der [[Harfner]].
+3. **Großes Zimmer mit Fenster und Balkon** – Bett kaputt, zwei Schränke, ein kaputtes Gemälde mit einer geheimen Nachricht. → [[Die geheime Nachricht im Gemälde]]
+4. **Zweitgrößtes Zimmer** – Bett kaputt, Schrank, Sofa.
+5. **Verdunkeltes Zimmer.**
+6. **Dunkles Studierzimmer** – eine Tafel mit religiösen Zeichen in Richtung Waterdeep.
+7. **Letztes Zimmer** – Notleiter, Besenkammer.
+
+Im Kamin gibt es einen **Geheimgang**. → [[Geheimgang im Kamin]]
+
+### Belegung
+
+- Balkonzimmer: [[Nymara Mooncrest|Ny]] (und [[Maxael Wolkenwanderer|Maxael]])
+- Kaminzimmer mit Bibliothek: [[Toki]]
+- Kleines Zimmer: [[Mogglewog|Moggle]]
+- Schlafzimmer: [[Mira]]
 
 ## Ausstattung
 
 - Neue Schlösser (gekauft bei [[Philip Wandergern]], eingebaut in [[Session 20.11.2026]])
-- Eine Ewige Fackel im Kamin
+- Eine immer leuchtende lila Fackel aus [[Xanathars Versteck]] im Kamin
 
 ## Besonderheiten
 

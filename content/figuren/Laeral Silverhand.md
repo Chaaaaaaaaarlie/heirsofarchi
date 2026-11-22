@@ -18,3 +18,8 @@ role: "Offene Fürstin von Waterdeep"
 
     - Die Offene Fürstin (*Open Lord*) von [[Waterdeep]].
 - In den Notizen auch als „Larrol Silverhand" geschrieben.
+
+## Mehr
+
+- Über ihr stehen bzw. mit ihr regieren die **zwölf geheimen Lords** von Waterdeep.
+- In den Fall um [[Archi]]s Erbe eingebunden (siehe [[Kampagnenbeginn]]).
