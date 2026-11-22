@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "de-DE",
-    baseUrl: "Chaaaaaaaaarlie.github.io/waterdeep-wiki",
+    baseUrl: "Chaaaaaaaaarlie.github.io/heirsofarchi",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
