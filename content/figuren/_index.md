@@ -18,6 +18,7 @@ tags:
 - [[Elijah]] — Mensch, Empfang im Zhentarim-Gildenhaus
 - [[Elisabeth]] — Alte Elfe, Bank von Waterdeep
 - [[Eugene]] — Buchhalter in hoher Stellung – vermutlich tot
+- [[Fineas Blanch]] — Mitunterzeichner des Einladungsschreibens
 - [[Flutterfott]] — Gnom, Entertainer, Angestellter Xanathars
 - [[Gaston]] — Betrachter-Zombie in Xanathars Versteck
 - [[Jim]] — Gefangener aus dem Zhentarim-Schmuggellager

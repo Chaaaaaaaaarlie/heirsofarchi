@@ -20,7 +20,7 @@ sources:
 
 # Archis Haus
 
-Das Haus der Gruppe – früher das Haus von [[Archi]].
+Das Haus der Gruppe – früher das Anwesen von [[Archi]] (Archibald Eutern).
 
 ## Lage
 

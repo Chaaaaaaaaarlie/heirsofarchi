@@ -23,6 +23,8 @@ Die Gruppe sind die **Erben von [[Archi]]**. Einen Monat nach seinem (vermeintli
 
 ### Ein Erbe in Waterdeep
 
+Alles beginnt mit einem [[Einladungsschreiben der Stadt Waterdeep|offiziellen Schreiben der Stadt]]: Im Namen von [[Laeral Silverhand]] wird die Gruppe in das Anwesen von Archibald Eutern im North Ward gerufen, denn sie steht in seinem Vermächtnis.
+
 Einen Monat nach Archis Tod wird die Gruppe zum Ort des Geschehens gerufen. Ein Gnom zeigt ihnen das Haus, das Archi ihnen vermacht hat – [[Archis Haus]]. Archi scheint geahnt zu haben, was kommt: *„Mein Ableben wird bald passieren.“* Auch [[Laeral Silverhand]] ist in die Angelegenheit eingebunden; Magier haben sich das Haus angesehen, und Wappen und anderes wurden verändert. Auf Greifen wird die Gruppe zu [[Castle Waterdeep]] gebracht und erhält dort ihre Ausweiskarten.
 
 Im Haus findet sich ein *Trank der Gasform* am Kronleuchter. Ein Beschwörungszauber zeigt ein fremdartiges Monster.

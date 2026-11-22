@@ -8,6 +8,7 @@ tags:
 status: seed
 aliases:
   - "Larrol Silverhand"
+  - "Laeral Silverhand Arunsun"
 entity_type: person
 role: "Offene Fürstin von Waterdeep"
 ---
@@ -23,3 +24,4 @@ role: "Offene Fürstin von Waterdeep"
 
 - Über ihr stehen bzw. mit ihr regieren die **zwölf geheimen Lords** von Waterdeep.
 - In den Fall um [[Archi]]s Erbe eingebunden (siehe [[Kampagnenbeginn]]).
+- Voller Titel laut [[Einladungsschreiben der Stadt Waterdeep]]: *Laeral Silverhand Arunsun, Offener Lord von Waterdeep, Zauberin des Nordens und Lady von Waterdeep*. Sie hat das Schreiben mit [[Fineas Blanch]] unterzeichnet.

@@ -6,6 +6,10 @@ updated: 2026-11-22
 tags:
   - domain/characters
 status: seed
+aliases:
+  - "Archibald Eutern"
+  - "Archibald"
+  - "Eutern"
 entity_type: person
 role: "Früherer Besitzer des Hauses der Gruppe – verschollen"
 related:
@@ -20,6 +24,8 @@ sources:
 # Archi
 
 > Früherer Besitzer des Hauses der Gruppe – verschollen
+
+Voller Name: **Archibald Eutern** (laut [[Einladungsschreiben der Stadt Waterdeep]]).
 
 ## Bekanntes
 

@@ -36,7 +36,8 @@ Spielerseitiges Wiki der Erben von [[Archi]] – der Gruppe um [[Nymara Mooncres
 
 ## Wichtige Figuren
 
-- [[Archi]] – früherer Hausbesitzer, verschollen
+- [[Archi]] (Archibald Eutern) – früherer Hausbesitzer, verschollen
+- [[Einladungsschreiben der Stadt Waterdeep]] – wie alles begann
 - [[Xanathar]] – Unterweltboss
 - [[Askasiva]] – weiß viel über die Gruppe
 - [[Sarah Bellabrand]] – Kontakt beim Gauntlet
@@ -71,6 +72,7 @@ Spielerseitiges Wiki der Erben von [[Archi]] – der Gruppe um [[Nymara Mooncres
 - [[Elijah]]
 - [[Elisabeth]]
 - [[Eugene]]
+- [[Fineas Blanch]]
 - [[Flutterfott]]
 - [[Gaston]]
 - [[Jim]]
@@ -144,3 +146,7 @@ Spielerseitiges Wiki der Erben von [[Archi]] – der Gruppe um [[Nymara Mooncres
 - [[Steuereintreiber]]
 - [[Umbau der Handarmbrust]]
 - [[Wer sucht Toki?]]
+
+### [[quellen/_index|Quellen]]
+
+- [[Einladungsschreiben der Stadt Waterdeep]]
