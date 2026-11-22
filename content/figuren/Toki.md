@@ -7,6 +7,8 @@ tags:
   - domain/characters
 status: active
 aliases:
+  - "Toki Tackleterrythin"
+  - "Tackleterrythin"
   - "Toki Taki Terri Tin"
 entity_type: person
 role: Spielercharakter
@@ -24,7 +26,7 @@ sources:
 
 ## Beschreibung
 
-Gnomischer Druide der Gruppe. Voller Name: **Toki Taki Terri Tin**.
+Gnomischer Druide der Gruppe. Voller Name: **Toki Tackleterrythin**.
 
 ## Vertrauter
 

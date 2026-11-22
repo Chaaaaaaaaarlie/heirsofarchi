@@ -7,6 +7,10 @@ updated: 2026-11-22
 
 # Vorgangs-Protokoll
 
+## [2026-11-22] korrektur | Tokis voller Name
+
+- [[Toki]] heißt mit vollem Namen Toki Tackleterrythin.
+
 ## [2026-11-22] korrektur | Cassalanter
 
 - Richtige Schreibweise der Familie mit dem Schwanenwappen: [[Familie Cassalanter]] (vorher „Castlelanter“).
