@@ -13,5 +13,5 @@ sources:
 
 # Das übermalte Wappen
 
-- In der Eingangshalle von [[Archis Haus]] findet [[Toki]] ein übermaltes Wappen: ein Schwan ([[Familie Castlelanter]]), darunter „Uffbasse!".
+- In der Eingangshalle von [[Archis Haus]] findet [[Toki]] ein übermaltes Wappen: ein Schwan ([[Familie Cassalanter]]), darunter „Uffbasse!".
 - Was verbindet das Haus mit dieser Familie?

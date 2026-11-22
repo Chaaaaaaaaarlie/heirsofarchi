@@ -7,6 +7,10 @@ updated: 2026-11-22
 
 # Vorgangs-Protokoll
 
+## [2026-11-22] korrektur | Cassalanter
+
+- Richtige Schreibweise der Familie mit dem Schwanenwappen: [[Familie Cassalanter]] (vorher „Castlelanter“).
+
 ## [2026-11-22] korrektur | Rückfragen zu Nymaras Notizen
 
 - [[Zhentarim-Schmuggellager]] liegt im [[Dock Ward]]. Neu: [[Philipp Archibald]]. [[Philip Wandergern]] heißt [[Philip van der Gern]] (Wappen: Drache nach unten). Volle Namen bei [[Toki]] und [[Theofilio]]; Greifen-Transport zu [[Castle Waterdeep]]; [[Safra Belagra]] von hohem Rang.

@@ -40,7 +40,7 @@ Begegnungen im [[Dock Ward]], Geschäfte in der Stadt, Unterstützung vom [[Orde
 
 ### Am Haus
 
-Am Haus hängen ein Zettel vom [[Steuereintreiber]] und ein Brief an [[Nymara Mooncrest|Ny]] von ihrer Familie. Die neuen Schlösser werden eingebaut, die Gruppe macht eine lange Rast. Toki entdeckt in der Eingangshalle ein übermaltes Wappen: ein Schwan ([[Familie Castlelanter]]), darunter geschrieben „Uffbasse!“ (Vorsicht!). Die magische Tinte geht nicht weg. Im Kamin brennt das lila Feuer der Fackel aus Xanathars Versteck. Ny schreibt ihre Familie wegen des Briefes: es geht um Geld, und sie soll den Namen Mooncrest nicht verwenden. → [[Das übermalte Wappen]]
+Am Haus hängen ein Zettel vom [[Steuereintreiber]] und ein Brief an [[Nymara Mooncrest|Ny]] von ihrer Familie. Die neuen Schlösser werden eingebaut, die Gruppe macht eine lange Rast. Toki entdeckt in der Eingangshalle ein übermaltes Wappen: ein Schwan ([[Familie Cassalanter]]), darunter geschrieben „Uffbasse!“ (Vorsicht!). Die magische Tinte geht nicht weg. Im Kamin brennt das lila Feuer der Fackel aus Xanathars Versteck. Ny schreibt ihre Familie wegen des Briefes: es geht um Geld, und sie soll den Namen Mooncrest nicht verwenden. → [[Das übermalte Wappen]]
 
 ### Der Vormittag
 

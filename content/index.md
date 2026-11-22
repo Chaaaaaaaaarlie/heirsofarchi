@@ -32,7 +32,7 @@ Spielerseitiges Wiki der Erben von [[Archi]] – der Gruppe um [[Nymara Mooncres
 
 ## Fraktionen
 
-- [[Xanathar-Gilde]] · [[Zhentarim]] · [[Order of the Gauntlet]] · [[Karneval]] · [[Hammerwraiths]] · [[Stadtwache]] · [[Familie Castlelanter]]
+- [[Xanathar-Gilde]] · [[Zhentarim]] · [[Order of the Gauntlet]] · [[Karneval]] · [[Hammerwraiths]] · [[Stadtwache]] · [[Familie Cassalanter]]
 
 ## Wichtige Figuren
 
@@ -91,7 +91,7 @@ Spielerseitiges Wiki der Erben von [[Archi]] – der Gruppe um [[Nymara Mooncres
 
 ### [[fraktionen/_index|Fraktionen]]
 
-- [[Familie Castlelanter]]
+- [[Familie Cassalanter]]
 - [[Hammerwraiths]]
 - [[Harfner]]
 - [[Karneval]]

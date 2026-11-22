@@ -9,7 +9,7 @@ tags:
 
 # Fraktionen-Übersicht
 
-- [[Familie Castlelanter]]
+- [[Familie Cassalanter]]
 - [[Hammerwraiths]]
 - [[Harfner]]
 - [[Karneval]]

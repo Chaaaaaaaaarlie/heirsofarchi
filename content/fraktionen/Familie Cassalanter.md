@@ -1,6 +1,6 @@
 ---
 type: entity
-title: "Familie Castlelanter"
+title: "Familie Cassalanter"
 created: 2026-11-22
 updated: 2026-11-22
 tags:
@@ -8,16 +8,19 @@ tags:
 status: seed
 aliases:
   - "Castelantas"
+  - "Castlelanter"
+  - "Familie Castlelanter"
+  - "Cassalanter"
 entity_type: organization
 sources:
   - "[[Session 20.11.2026]]"
 ---
 
-# Familie Castlelanter
+# Familie Cassalanter
 
 Eine Familie mit einem **Schwan** im Wappen. Ihr übermaltes Wappen findet sich in der Eingangshalle von [[Archis Haus]]. → [[Das übermalte Wappen]]
 
 ## Mehr
 
 - Unter dem Wappen steht „Uffbasse!“ (Vorsicht!); die magische Tinte lässt sich nicht entfernen.
-- Auch „Castelantas“ notiert.
+- Früher auch „Castlelanter“ bzw. „Castelantas“ notiert.
